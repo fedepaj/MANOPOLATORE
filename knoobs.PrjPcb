@@ -237,6 +237,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QPDUSTUB
 
+[Document12]
+DocumentPath=RELEASE.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document13]
+DocumentPath=KNOOBS_2040_ZERO.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FHJENDNI
+
 [ProjectVariant1]
 UniqueId=4080ac33-2fb6-4f1f-b092-0f36d8d15a8b
 Description=PROD
@@ -250,6 +284,218 @@ Variation4=Designator=C9|UniqueId=\LBQULKRA\LPVLCFNV|Kind=1|AlternatePart=
 Variation5=Designator=C11|UniqueId=\LBQULKRA\MLWAZQLH|Kind=1|AlternatePart=
 Variation6=Designator=C12|UniqueId=\LBQULKRA\WPVDOFJL|Kind=1|AlternatePart=
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for knoobs\FAB\BOM\Bill of Materials-knoobs(PROD).xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for knoobs\FAB\ODB\odb\steps\pcb\layers\comp_+_bot\components
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for knoobs\FAB\ODB\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for knoobs\FAB\ODB\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for knoobs\FAB\ODB\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for knoobs\FAB\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for knoobs\FAB\ODB\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for knoobs\FAB\ODB\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for knoobs\FAB\ODB\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for knoobs\FAB\ODB\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for knoobs\FAB\ODB\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for knoobs\FAB\ODB\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for knoobs\FAB\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for knoobs\FAB\ODB\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for knoobs\FAB\ODB\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for knoobs\FAB\ODB\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for knoobs\FAB\ODB\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for knoobs\DOCS\ExportSTEP\KNOOBS_2040_ZERO(PROD).step
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for knoobs\FAB\NC Drill\KNOOBS_2040_ZERO-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for knoobs\FAB\NC Drill\KNOOBS_2040_ZERO-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for knoobs\FAB\NC Drill\KNOOBS_2040_ZERO.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for knoobs\FAB\Gerber\KNOOBS_2040_ZERO.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for knoobs\FAB\GerberX2\KNOOBS_2040_ZERO.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for knoobs\FAB\Gerber\KNOOBS_2040_ZERO.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for knoobs\FAB\Gerber\KNOOBS_2040_ZERO.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for knoobs\FAB\Gerber\KNOOBS_2040_ZERO.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for knoobs\FAB\Gerber\KNOOBS_2040_ZERO.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for knoobs\FAB\Gerber\KNOOBS_2040_ZERO.GM
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for knoobs\FAB\Gerber\KNOOBS_2040_ZERO.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for knoobs\FAB\Gerber\KNOOBS_2040_ZERO.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for knoobs\FAB\Gerber\KNOOBS_2040_ZERO.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for knoobs\FAB\Gerber\KNOOBS_2040_ZERO.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for knoobs\FAB\NC Drill\KNOOBS_2040_ZERO.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for knoobs\FAB\Gerber\KNOOBS_2040_ZERO.REP
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for knoobs\FAB\GerberX2\KNOOBS_2040_ZERO.REP
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for knoobs\FAB\ODB\KNOOBS_2040_ZERO.REP
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for knoobs\FAB\GerberX2\KNOOBS_2040_ZERO_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for knoobs\FAB\GerberX2\KNOOBS_2040_ZERO_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for knoobs\FAB\GerberX2\KNOOBS_2040_ZERO_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for knoobs\FAB\GerberX2\KNOOBS_2040_ZERO_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for knoobs\FAB\GerberX2\KNOOBS_2040_ZERO_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for knoobs\FAB\GerberX2\KNOOBS_2040_ZERO_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for knoobs\FAB\GerberX2\KNOOBS_2040_ZERO_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for knoobs\FAB\GerberX2\KNOOBS_2040_ZERO_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for knoobs\FAB\GerberX2\KNOOBS_2040_ZERO_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for knoobs\FAB\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for knoobs\FAB\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for knoobs\FAB\Pick Place\Pick Place for KNOOBS_2040_ZERO(PROD).csv
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for knoobs\FAB\Pick Place\Pick Place for KNOOBS_2040_ZERO(PROD).txt
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for knoobs\FAB\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for knoobs\FAB\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for knoobs\FAB\ODB\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\tools
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for knoobs\FAB\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
