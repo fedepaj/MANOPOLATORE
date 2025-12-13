@@ -242,7 +242,13 @@ UniqueId=4080ac33-2fb6-4f1f-b092-0f36d8d15a8b
 Description=PROD
 AllowFabrication=0
 ParameterCount=0
-VariationCount=0
+VariationCount=6
+Variation1=Designator=C8|UniqueId=\LBQULKRA\INAFSGON|Kind=1|AlternatePart=
+Variation2=Designator=C10|UniqueId=\LBQULKRA\HNIHORUE|Kind=1|AlternatePart=
+Variation3=Designator=C13|UniqueId=\LBQULKRA\AWPKBKMH|Kind=1|AlternatePart=
+Variation4=Designator=C9|UniqueId=\LBQULKRA\LPVLCFNV|Kind=1|AlternatePart=
+Variation5=Designator=C11|UniqueId=\LBQULKRA\MLWAZQLH|Kind=1|AlternatePart=
+Variation6=Designator=C12|UniqueId=\LBQULKRA\WPVDOFJL|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Configuration1]
