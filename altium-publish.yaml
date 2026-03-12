@@ -1,0 +1,122 @@
+project:
+  name: MANOPOLATORE
+  description: 'MIDI knob device for cheap'
+  author: 'Federico Paglioni'
+  license: 'MIT'
+  repo: fedepaj/MANOPOLATORE
+  url: 'https://github.com/fedepaj/MANOPOLATORE'
+  version_prefix: v0.0.2
+files:
+  schematics:
+    path: DOCS/Schematic Print
+    patterns:
+    - '*.pdf'
+    - '*.PDF'
+    enabled: true
+  draftsman:
+    path: DOCS/PCBDrawing
+    patterns:
+    - '*.pdf'
+    - '*.PDF'
+    enabled: true
+  bom:
+    path: FAB/BOM
+    patterns:
+    - '*.xlsx'
+    - '*.csv'
+    - '*BOM*'
+    - '*bom*'
+    enabled: true
+  gerbers:
+    path: FAB/Gerber
+    patterns:
+    - '*.GBL'
+    - '*.GBO'
+    - '*.GBP'
+    - '*.GBS'
+    - '*.GTL'
+    - '*.GTO'
+    - '*.GTP'
+    - '*.GTS'
+    - '*.GKO'
+    - '*.GM1'
+    - '*.GM2'
+    enabled: true
+  gerber_x2:
+    path: FAB/GerberX2
+    patterns:
+    - '*.gbr'
+    enabled: true
+  nc_drill:
+    path: FAB/NC Drill
+    patterns:
+    - '*.TXT'
+    - '*.DRR'
+    - '*.LDP'
+    enabled: true
+  step:
+    path: DOCS/ExportSTEP
+    patterns:
+    - '*.step'
+    - '*.stp'
+    - '*.STEP'
+    - '*.STP'
+    enabled: true
+  pick_place:
+    path: FAB/Pick Place
+    patterns:
+    - '*Pick*Place*'
+    - '*pick*place*'
+    - '*.pos'
+    - '*.csv'
+    - '*.txt'
+    enabled: true
+  odb:
+    path: FAB/ODB
+    patterns:
+    - '*.tgz'
+    - '*.zip'
+    enabled: true
+  extra_docs:
+    path: DOCS
+    patterns:
+    - '*.pdf'
+    - '*.PDF'
+    enabled: false
+convert:
+  schematic_format: svg
+  pdf_dpi: 200
+  pdf_format: webp
+  step_format: glb
+  bom_interactive: true
+  gerber_render: true
+  gerber_tool: auto
+site:
+  title: ''
+  theme: light
+  accent_color: '#6B2D38'
+  accent_color_dark: '#006D77'
+  logo: ''
+  sections:
+  - overview
+  - schematics
+  - draftsman
+  - pcb3d
+  - bom
+  - gerbers
+  - downloads
+  custom_css: ''
+  custom_sections: []
+github:
+  create_release: true
+  draft: false
+  upload_assets: true
+  asset_patterns:
+  - '*.zip'
+  - '*.pdf'
+  - '*.step'
+  - '*.xlsx'
+  pages_branch: gh-pages
+  pages_dir: docs
+release_dir: Project Outputs for MANOPOLATORE
+output_dir: docs

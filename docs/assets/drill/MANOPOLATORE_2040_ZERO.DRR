@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: MANOPOLATORE_2040_ZERO.PcbDoc   3/11/2026  6:34:13 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : MANOPOLATORE_2040_ZERO-RoundHoles.TXT
+ASCII SlotHoles File : MANOPOLATORE_2040_ZERO-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             54        PTH        552.90mm (21.77inch)
+T2      0.5mm (20mil)                                             Round             26        PTH        379.83mm (14.95inch)
+T3      0.85mm (33mil)                                            Round             2         PTH        3.50mm (0.14inch)
+T4      1mm (39mil)                                               Round             114       PTH        1135.45mm (44.70inch)
+T5      1.5mm (59mil)                                             Round             12        PTH        398.30mm (15.68inch)
+T6      1.8mm (71mil)                                             Slot              32        PTH        1292.40mm (50.88inch)
+T7      1.1mm (43mil)                                             Round             96        NPTH       964.43mm (37.97inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              336
+
+Total Processing Time (hh:mm:ss) : 00:00:01

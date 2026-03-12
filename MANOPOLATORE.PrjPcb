@@ -267,6 +267,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FHJENDNI
 
+[Document14]
+DocumentPath=..\..\InteractiveHTMLBOM4Altium2-main\InteractiveHTMLBOM4Altium2.pas
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=4080ac33-2fb6-4f1f-b092-0f36d8d15a8b
 Description=PROD
@@ -280,6 +297,10 @@ Variation4=Designator=C9|UniqueId=\LBQULKRA\LPVLCFNV|Kind=1|AlternatePart=
 Variation5=Designator=C11|UniqueId=\LBQULKRA\MLWAZQLH|Kind=1|AlternatePart= 
 Variation6=Designator=C12|UniqueId=\LBQULKRA\WPVDOFJL|Kind=1|AlternatePart= 
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for MANOPOLATORE\DOCS\ExportSTEP\MANOPOLATORE_2040_ZERO(PROD).step
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -396,12 +417,42 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
+OutputType21=SIMetrixNetlist
+OutputName21=SIMetrix
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
+OutputType22=SIMPLISNetlist
+OutputName22=SIMPLIS
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+OutputType23=XSpiceNetlist
+OutputName23=Mixed Sim Netlist
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=SIMetrixSimulation
+OutputName2=SIMetrix
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=SIMPLISSimulation
+OutputName3=SIMPLIS
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs

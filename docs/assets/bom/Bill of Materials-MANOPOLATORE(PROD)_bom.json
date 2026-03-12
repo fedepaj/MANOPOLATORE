@@ -1,0 +1,1153 @@
+{
+  "source": "Bill of Materials-MANOPOLATORE(PROD).xlsx",
+  "headers": [
+    "Comment",
+    "Description",
+    "Designator",
+    "Quantity",
+    "DesignItemId",
+    "manufacturer"
+  ],
+  "column_map": {
+    "designator": "Designator",
+    "value": "Comment",
+    "description": "Description",
+    "quantity": "Quantity",
+    "manufacturer": "manufacturer"
+  },
+  "rows": [
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C1_K01",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C1_K02",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C1_K03",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C1_K04",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C1_K05",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C1_K06",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C1_K07",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C1_K08",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C1_K09",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C1_K10",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C1_K11",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C1_K12",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C1_K13",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C1_K14",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C1_K15",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C1_K16",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C2_K01",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C2_K02",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C2_K03",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C2_K04",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C2_K05",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C2_K06",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C2_K07",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C2_K08",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C2_K09",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C2_K10",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C2_K11",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C2_K12",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C2_K13",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C2_K14",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C2_K15",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C2_K16",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C3_K01",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C3_K02",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C3_K03",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C3_K04",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C3_K05",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C3_K06",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C3_K07",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C3_K08",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C3_K09",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C3_K10",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C3_K11",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C3_K12",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C3_K13",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C3_K14",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C3_K15",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C3_K16",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "10 µF",
+      "Description": "CAP CER 10UF 10V X7R 0603",
+      "Designator": "C4_K01",
+      "Quantity": "1",
+      "DesignItemId": "GRM188Z71A106KA73D",
+      "manufacturer": "Murata Electronics"
+    },
+    {
+      "Comment": "10 µF",
+      "Description": "CAP CER 10UF 10V X7R 0603",
+      "Designator": "C4_K02",
+      "Quantity": "1",
+      "DesignItemId": "GRM188Z71A106KA73D",
+      "manufacturer": "Murata Electronics"
+    },
+    {
+      "Comment": "10 µF",
+      "Description": "CAP CER 10UF 10V X7R 0603",
+      "Designator": "C4_K03",
+      "Quantity": "1",
+      "DesignItemId": "GRM188Z71A106KA73D",
+      "manufacturer": "Murata Electronics"
+    },
+    {
+      "Comment": "10 µF",
+      "Description": "CAP CER 10UF 10V X7R 0603",
+      "Designator": "C4_K04",
+      "Quantity": "1",
+      "DesignItemId": "GRM188Z71A106KA73D",
+      "manufacturer": "Murata Electronics"
+    },
+    {
+      "Comment": "10 µF",
+      "Description": "CAP CER 10UF 10V X7R 0603",
+      "Designator": "C4_K05",
+      "Quantity": "1",
+      "DesignItemId": "GRM188Z71A106KA73D",
+      "manufacturer": "Murata Electronics"
+    },
+    {
+      "Comment": "10 µF",
+      "Description": "CAP CER 10UF 10V X7R 0603",
+      "Designator": "C4_K06",
+      "Quantity": "1",
+      "DesignItemId": "GRM188Z71A106KA73D",
+      "manufacturer": "Murata Electronics"
+    },
+    {
+      "Comment": "10 µF",
+      "Description": "CAP CER 10UF 10V X7R 0603",
+      "Designator": "C4_K07",
+      "Quantity": "1",
+      "DesignItemId": "GRM188Z71A106KA73D",
+      "manufacturer": "Murata Electronics"
+    },
+    {
+      "Comment": "10 µF",
+      "Description": "CAP CER 10UF 10V X7R 0603",
+      "Designator": "C4_K08",
+      "Quantity": "1",
+      "DesignItemId": "GRM188Z71A106KA73D",
+      "manufacturer": "Murata Electronics"
+    },
+    {
+      "Comment": "10 µF",
+      "Description": "CAP CER 10UF 10V X7R 0603",
+      "Designator": "C4_K09",
+      "Quantity": "1",
+      "DesignItemId": "GRM188Z71A106KA73D",
+      "manufacturer": "Murata Electronics"
+    },
+    {
+      "Comment": "10 µF",
+      "Description": "CAP CER 10UF 10V X7R 0603",
+      "Designator": "C4_K10",
+      "Quantity": "1",
+      "DesignItemId": "GRM188Z71A106KA73D",
+      "manufacturer": "Murata Electronics"
+    },
+    {
+      "Comment": "10 µF",
+      "Description": "CAP CER 10UF 10V X7R 0603",
+      "Designator": "C4_K11",
+      "Quantity": "1",
+      "DesignItemId": "GRM188Z71A106KA73D",
+      "manufacturer": "Murata Electronics"
+    },
+    {
+      "Comment": "10 µF",
+      "Description": "CAP CER 10UF 10V X7R 0603",
+      "Designator": "C4_K12",
+      "Quantity": "1",
+      "DesignItemId": "GRM188Z71A106KA73D",
+      "manufacturer": "Murata Electronics"
+    },
+    {
+      "Comment": "10 µF",
+      "Description": "CAP CER 10UF 10V X7R 0603",
+      "Designator": "C4_K13",
+      "Quantity": "1",
+      "DesignItemId": "GRM188Z71A106KA73D",
+      "manufacturer": "Murata Electronics"
+    },
+    {
+      "Comment": "10 µF",
+      "Description": "CAP CER 10UF 10V X7R 0603",
+      "Designator": "C4_K14",
+      "Quantity": "1",
+      "DesignItemId": "GRM188Z71A106KA73D",
+      "manufacturer": "Murata Electronics"
+    },
+    {
+      "Comment": "10 µF",
+      "Description": "CAP CER 10UF 10V X7R 0603",
+      "Designator": "C4_K15",
+      "Quantity": "1",
+      "DesignItemId": "GRM188Z71A106KA73D",
+      "manufacturer": "Murata Electronics"
+    },
+    {
+      "Comment": "10 µF",
+      "Description": "CAP CER 10UF 10V X7R 0603",
+      "Designator": "C4_K16",
+      "Quantity": "1",
+      "DesignItemId": "GRM188Z71A106KA73D",
+      "manufacturer": "Murata Electronics"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C5",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "EEUFM1A471",
+      "Description": "Cap Aluminum Lytic 470uF 10V 20% (8 X 11.5mm) Radial 3.5mm 950mA 3000h 105C Bulk",
+      "Designator": "C6",
+      "Quantity": "1",
+      "DesignItemId": "EEUFM1A471",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C7_BTN_BOT",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C7_BTN_FUNC",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C7_BTN_TOP",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C7_DX_BOT",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C7_DX_TOP",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C7_SX_BOT",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "0.1 µF",
+      "Description": "CAP CER 0.1UF 16V X7R 0603",
+      "Designator": "C7_SX_TOP",
+      "Quantity": "1",
+      "DesignItemId": "CC0603KPX7R7BB104",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "SMAJ5.0A",
+      "Description": "TVS DIODE 5VWM 9.2VC DO214AC",
+      "Designator": "D1",
+      "Quantity": "1",
+      "DesignItemId": "SMAJ5.0A",
+      "manufacturer": "Littelfuse Inc."
+    },
+    {
+      "Comment": "PEC11R-4015K-S0024",
+      "Description": "ROTARY ENCODER MECHANICAL 24PPR",
+      "Designator": "ENC_K01",
+      "Quantity": "1",
+      "DesignItemId": "CMP-07421-000013-1",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "PEC11R-4015K-S0024",
+      "Description": "ROTARY ENCODER MECHANICAL 24PPR",
+      "Designator": "ENC_K02",
+      "Quantity": "1",
+      "DesignItemId": "CMP-07421-000013-1",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "PEC11R-4015K-S0024",
+      "Description": "ROTARY ENCODER MECHANICAL 24PPR",
+      "Designator": "ENC_K03",
+      "Quantity": "1",
+      "DesignItemId": "CMP-07421-000013-1",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "PEC11R-4015K-S0024",
+      "Description": "ROTARY ENCODER MECHANICAL 24PPR",
+      "Designator": "ENC_K04",
+      "Quantity": "1",
+      "DesignItemId": "CMP-07421-000013-1",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "PEC11R-4015K-S0024",
+      "Description": "ROTARY ENCODER MECHANICAL 24PPR",
+      "Designator": "ENC_K05",
+      "Quantity": "1",
+      "DesignItemId": "CMP-07421-000013-1",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "PEC11R-4015K-S0024",
+      "Description": "ROTARY ENCODER MECHANICAL 24PPR",
+      "Designator": "ENC_K06",
+      "Quantity": "1",
+      "DesignItemId": "CMP-07421-000013-1",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "PEC11R-4015K-S0024",
+      "Description": "ROTARY ENCODER MECHANICAL 24PPR",
+      "Designator": "ENC_K07",
+      "Quantity": "1",
+      "DesignItemId": "CMP-07421-000013-1",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "PEC11R-4015K-S0024",
+      "Description": "ROTARY ENCODER MECHANICAL 24PPR",
+      "Designator": "ENC_K08",
+      "Quantity": "1",
+      "DesignItemId": "CMP-07421-000013-1",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "PEC11R-4015K-S0024",
+      "Description": "ROTARY ENCODER MECHANICAL 24PPR",
+      "Designator": "ENC_K09",
+      "Quantity": "1",
+      "DesignItemId": "CMP-07421-000013-1",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "PEC11R-4015K-S0024",
+      "Description": "ROTARY ENCODER MECHANICAL 24PPR",
+      "Designator": "ENC_K10",
+      "Quantity": "1",
+      "DesignItemId": "CMP-07421-000013-1",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "PEC11R-4015K-S0024",
+      "Description": "ROTARY ENCODER MECHANICAL 24PPR",
+      "Designator": "ENC_K11",
+      "Quantity": "1",
+      "DesignItemId": "CMP-07421-000013-1",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "PEC11R-4015K-S0024",
+      "Description": "ROTARY ENCODER MECHANICAL 24PPR",
+      "Designator": "ENC_K12",
+      "Quantity": "1",
+      "DesignItemId": "CMP-07421-000013-1",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "PEC11R-4015K-S0024",
+      "Description": "ROTARY ENCODER MECHANICAL 24PPR",
+      "Designator": "ENC_K13",
+      "Quantity": "1",
+      "DesignItemId": "CMP-07421-000013-1",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "PEC11R-4015K-S0024",
+      "Description": "ROTARY ENCODER MECHANICAL 24PPR",
+      "Designator": "ENC_K14",
+      "Quantity": "1",
+      "DesignItemId": "CMP-07421-000013-1",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "PEC11R-4015K-S0024",
+      "Description": "ROTARY ENCODER MECHANICAL 24PPR",
+      "Designator": "ENC_K15",
+      "Quantity": "1",
+      "DesignItemId": "CMP-07421-000013-1",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "PEC11R-4015K-S0024",
+      "Description": "ROTARY ENCODER MECHANICAL 24PPR",
+      "Designator": "ENC_K16",
+      "Quantity": "1",
+      "DesignItemId": "CMP-07421-000013-1",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "LED_RING",
+      "Description": "",
+      "Designator": "LED_K01",
+      "Quantity": "1",
+      "DesignItemId": "LED_RING",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "LED_RING",
+      "Description": "",
+      "Designator": "LED_K02",
+      "Quantity": "1",
+      "DesignItemId": "LED_RING",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "LED_RING",
+      "Description": "",
+      "Designator": "LED_K03",
+      "Quantity": "1",
+      "DesignItemId": "LED_RING",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "LED_RING",
+      "Description": "",
+      "Designator": "LED_K04",
+      "Quantity": "1",
+      "DesignItemId": "LED_RING",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "LED_RING",
+      "Description": "",
+      "Designator": "LED_K05",
+      "Quantity": "1",
+      "DesignItemId": "LED_RING",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "LED_RING",
+      "Description": "",
+      "Designator": "LED_K06",
+      "Quantity": "1",
+      "DesignItemId": "LED_RING",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "LED_RING",
+      "Description": "",
+      "Designator": "LED_K07",
+      "Quantity": "1",
+      "DesignItemId": "LED_RING",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "LED_RING",
+      "Description": "",
+      "Designator": "LED_K08",
+      "Quantity": "1",
+      "DesignItemId": "LED_RING",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "LED_RING",
+      "Description": "",
+      "Designator": "LED_K09",
+      "Quantity": "1",
+      "DesignItemId": "LED_RING",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "LED_RING",
+      "Description": "",
+      "Designator": "LED_K10",
+      "Quantity": "1",
+      "DesignItemId": "LED_RING",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "LED_RING",
+      "Description": "",
+      "Designator": "LED_K11",
+      "Quantity": "1",
+      "DesignItemId": "LED_RING",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "LED_RING",
+      "Description": "",
+      "Designator": "LED_K12",
+      "Quantity": "1",
+      "DesignItemId": "LED_RING",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "LED_RING",
+      "Description": "",
+      "Designator": "LED_K13",
+      "Quantity": "1",
+      "DesignItemId": "LED_RING",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "LED_RING",
+      "Description": "",
+      "Designator": "LED_K14",
+      "Quantity": "1",
+      "DesignItemId": "LED_RING",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "LED_RING",
+      "Description": "",
+      "Designator": "LED_K15",
+      "Quantity": "1",
+      "DesignItemId": "LED_RING",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "LED_RING",
+      "Description": "",
+      "Designator": "LED_K16",
+      "Quantity": "1",
+      "DesignItemId": "LED_RING",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "330 Ohms",
+      "Description": "RES 330 OHM 5% 1/10W 0603",
+      "Designator": "R1",
+      "Quantity": "1",
+      "DesignItemId": "RC0603JR-07330RP",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "33 Ohms",
+      "Description": "RES 33 OHM 5% 1/10W 0603",
+      "Designator": "R2",
+      "Quantity": "1",
+      "DesignItemId": "RC0603JR-0733RL",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "33 Ohms",
+      "Description": "RES 33 OHM 5% 1/10W 0603",
+      "Designator": "R3",
+      "Quantity": "1",
+      "DesignItemId": "RC0603JR-0733RL",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "330 Ohms",
+      "Description": "RES 330 OHM 5% 1/10W 0603",
+      "Designator": "R4",
+      "Quantity": "1",
+      "DesignItemId": "RC0603JR-07330RP",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "330 Ohms",
+      "Description": "RES 330 OHM 5% 1/10W 0603",
+      "Designator": "R5",
+      "Quantity": "1",
+      "DesignItemId": "RC0603JR-07330RP",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "330 Ohms",
+      "Description": "RES 330 OHM 5% 1/10W 0603",
+      "Designator": "R6",
+      "Quantity": "1",
+      "DesignItemId": "RC0603JR-07330RP",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "YC164-JR-0710KL",
+      "Description": "RES ARRAY 4 RES 10K OHM 1206",
+      "Designator": "R7_BTN_BOT",
+      "Quantity": "1",
+      "DesignItemId": "YC164-JR-0710KL",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "YC164-JR-0710KL",
+      "Description": "RES ARRAY 4 RES 10K OHM 1206",
+      "Designator": "R7_BTN_FUNC",
+      "Quantity": "1",
+      "DesignItemId": "YC164-JR-0710KL",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "YC164-JR-0710KL",
+      "Description": "RES ARRAY 4 RES 10K OHM 1206",
+      "Designator": "R7_BTN_TOP",
+      "Quantity": "1",
+      "DesignItemId": "YC164-JR-0710KL",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "YC164-JR-0710KL",
+      "Description": "RES ARRAY 4 RES 10K OHM 1206",
+      "Designator": "R7_DX_BOT",
+      "Quantity": "1",
+      "DesignItemId": "YC164-JR-0710KL",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "YC164-JR-0710KL",
+      "Description": "RES ARRAY 4 RES 10K OHM 1206",
+      "Designator": "R7_DX_TOP",
+      "Quantity": "1",
+      "DesignItemId": "YC164-JR-0710KL",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "YC164-JR-0710KL",
+      "Description": "RES ARRAY 4 RES 10K OHM 1206",
+      "Designator": "R7_SX_BOT",
+      "Quantity": "1",
+      "DesignItemId": "YC164-JR-0710KL",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "YC164-JR-0710KL",
+      "Description": "RES ARRAY 4 RES 10K OHM 1206",
+      "Designator": "R7_SX_TOP",
+      "Quantity": "1",
+      "DesignItemId": "YC164-JR-0710KL",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "YC164-JR-0710KL",
+      "Description": "RES ARRAY 4 RES 10K OHM 1206",
+      "Designator": "R8_BTN_BOT",
+      "Quantity": "1",
+      "DesignItemId": "YC164-JR-0710KL",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "YC164-JR-0710KL",
+      "Description": "RES ARRAY 4 RES 10K OHM 1206",
+      "Designator": "R8_BTN_FUNC",
+      "Quantity": "1",
+      "DesignItemId": "YC164-JR-0710KL",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "YC164-JR-0710KL",
+      "Description": "RES ARRAY 4 RES 10K OHM 1206",
+      "Designator": "R8_BTN_TOP",
+      "Quantity": "1",
+      "DesignItemId": "YC164-JR-0710KL",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "YC164-JR-0710KL",
+      "Description": "RES ARRAY 4 RES 10K OHM 1206",
+      "Designator": "R8_DX_BOT",
+      "Quantity": "1",
+      "DesignItemId": "YC164-JR-0710KL",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "YC164-JR-0710KL",
+      "Description": "RES ARRAY 4 RES 10K OHM 1206",
+      "Designator": "R8_DX_TOP",
+      "Quantity": "1",
+      "DesignItemId": "YC164-JR-0710KL",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "YC164-JR-0710KL",
+      "Description": "RES ARRAY 4 RES 10K OHM 1206",
+      "Designator": "R8_SX_BOT",
+      "Quantity": "1",
+      "DesignItemId": "YC164-JR-0710KL",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "YC164-JR-0710KL",
+      "Description": "RES ARRAY 4 RES 10K OHM 1206",
+      "Designator": "R8_SX_TOP",
+      "Quantity": "1",
+      "DesignItemId": "YC164-JR-0710KL",
+      "manufacturer": "Yageo"
+    },
+    {
+      "Comment": "74HC165D,653",
+      "Description": "IC SHIFT REGST 8BIT PI-SO 16SOIC",
+      "Designator": "SR_BTN_BOT",
+      "Quantity": "1",
+      "DesignItemId": "CMP-14351-000001-1",
+      "manufacturer": "Nexperia"
+    },
+    {
+      "Comment": "74HC165D,653",
+      "Description": "IC SHIFT REGST 8BIT PI-SO 16SOIC",
+      "Designator": "SR_BTN_FUNC",
+      "Quantity": "1",
+      "DesignItemId": "CMP-14351-000001-1",
+      "manufacturer": "Nexperia"
+    },
+    {
+      "Comment": "74HC165D,653",
+      "Description": "IC SHIFT REGST 8BIT PI-SO 16SOIC",
+      "Designator": "SR_BTN_TOP",
+      "Quantity": "1",
+      "DesignItemId": "CMP-14351-000001-1",
+      "manufacturer": "Nexperia"
+    },
+    {
+      "Comment": "74HC165D,653",
+      "Description": "IC SHIFT REGST 8BIT PI-SO 16SOIC",
+      "Designator": "SR_DX_BOT",
+      "Quantity": "1",
+      "DesignItemId": "CMP-14351-000001-1",
+      "manufacturer": "Nexperia"
+    },
+    {
+      "Comment": "74HC165D,653",
+      "Description": "IC SHIFT REGST 8BIT PI-SO 16SOIC",
+      "Designator": "SR_DX_TOP",
+      "Quantity": "1",
+      "DesignItemId": "CMP-14351-000001-1",
+      "manufacturer": "Nexperia"
+    },
+    {
+      "Comment": "74HC165D,653",
+      "Description": "IC SHIFT REGST 8BIT PI-SO 16SOIC",
+      "Designator": "SR_SX_BOT",
+      "Quantity": "1",
+      "DesignItemId": "CMP-14351-000001-1",
+      "manufacturer": "Nexperia"
+    },
+    {
+      "Comment": "74HC165D,653",
+      "Description": "IC SHIFT REGST 8BIT PI-SO 16SOIC",
+      "Designator": "SR_SX_TOP",
+      "Quantity": "1",
+      "DesignItemId": "CMP-14351-000001-1",
+      "manufacturer": "Nexperia"
+    },
+    {
+      "Comment": "B3F-3122",
+      "Description": "SWITCH TACTILE SPST-NO 0.05A 24V",
+      "Designator": "SW1",
+      "Quantity": "1",
+      "DesignItemId": "CMP-08834-000053-1",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "B3F-3122",
+      "Description": "SWITCH TACTILE SPST-NO 0.05A 24V",
+      "Designator": "SW2",
+      "Quantity": "1",
+      "DesignItemId": "CMP-08834-000053-1",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "B3F-3122",
+      "Description": "SWITCH TACTILE SPST-NO 0.05A 24V",
+      "Designator": "SW3",
+      "Quantity": "1",
+      "DesignItemId": "CMP-08834-000053-1",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "B3F-3122",
+      "Description": "SWITCH TACTILE SPST-NO 0.05A 24V",
+      "Designator": "SW4",
+      "Quantity": "1",
+      "DesignItemId": "CMP-08834-000053-1",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "B3F-3122",
+      "Description": "SWITCH TACTILE SPST-NO 0.05A 24V",
+      "Designator": "SW5",
+      "Quantity": "1",
+      "DesignItemId": "CMP-08834-000053-1",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "B3F-3122",
+      "Description": "SWITCH TACTILE SPST-NO 0.05A 24V",
+      "Designator": "SW6",
+      "Quantity": "1",
+      "DesignItemId": "CMP-08834-000053-1",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "RP2040-ZERO",
+      "Description": "Low-Cost, High-Performance Pico-Like MCU Board Based On Raspberry Pi Microcontroller RP2040",
+      "Designator": "U1",
+      "Quantity": "1",
+      "DesignItemId": "RP2040-ZERO",
+      "manufacturer": ""
+    },
+    {
+      "Comment": "SN74AHCT125QDREP",
+      "Description": "Enhanced Product Quadruple Bus Buffer Gates With 3-State Outputs, D0014A, LARGE T&R",
+      "Designator": "U2",
+      "Quantity": "1",
+      "DesignItemId": "CMP-0440-00320-3",
+      "manufacturer": "Texas Instruments"
+    }
+  ],
+  "stats": {
+    "total_lines": 141,
+    "unique_parts": 13,
+    "total_components": 141
+  }
+}
