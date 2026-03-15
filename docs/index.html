@@ -546,7 +546,8 @@
   "draftsman_format": "svg",
   "bom": "assets/bom/Bill of Materials-MANOPOLATORE(PROD)_bom.json",
   "step": "assets/3d/MANOPOLATORE_2040_ZERO(PROD).step",
-  "step_format": "step",
+  "step_glb": "assets/3d/MANOPOLATORE_2040_ZERO(PROD).glb",
+  "step_format": "glb",
   "gerber_layers": [
     {
       "file": "MANOPOLATORE_2040_ZERO_Copper_Signal_Bot.gbr",
@@ -715,7 +716,8 @@
       "type": "ODB++ Package",
       "size": 210528
     }
-  ]
+  ],
+  "step_gif": "assets/3d/preview.gif"
 };
     let currentView = null;
     const viewers = {};
@@ -1101,7 +1103,9 @@
           defaultColor: new OV.RGBColor(180, 180, 190),
           edgeSettings: new OV.EdgeSettings(true, new OV.RGBColor(0,0,0), 1),
         });
-        viewer.LoadModelFromUrlList([encodeURI(D.step)]);
+        // Prefer GLB (smaller, faster) with STEP as fallback
+        const modelUrl = D.step_glb || D.step;
+        viewer.LoadModelFromUrlList([encodeURI(modelUrl)]);
       } catch(e) {
         show3DFallback(container);
       }

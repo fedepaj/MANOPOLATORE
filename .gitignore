@@ -31,3 +31,4 @@ scripts/__pycache__/
 *.dwl2
 
 .DS_Store
+.stfolder

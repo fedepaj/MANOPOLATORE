@@ -2,6 +2,8 @@
 
 A super cheap 16-encoder MIDI controller based on the RP2040-Zero.
 
+![3D Preview](docs/assets/3d/preview.gif)
+
 ## Documentation
 
 All hardware documentation (Schematics, BOM, Interactive BOM, 3D Model, and Gerber viewer) is available on the GitHub Page:
