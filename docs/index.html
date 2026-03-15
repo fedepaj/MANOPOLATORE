@@ -365,10 +365,11 @@
     }
     .gv-wrapper .gv-layer {
       position: absolute; top: 0; left: 0;
-      mix-blend-mode: lighten;
+      mix-blend-mode: screen;
+      pointer-events: none;
     }
-    .gv-wrapper .gv-layer img {
-      display: block; pointer-events: none;
+    .gv-wrapper .gv-layer svg {
+      display: block; overflow: visible;
     }
 
     /* ═══ IBOM ═══ */
@@ -552,24 +553,24 @@
       "path": "/Users/federicopaglioni/Documents/MANOPOLATORE/Project Outputs for MANOPOLATORE/FAB/GerberX2/MANOPOLATORE_2040_ZERO_Copper_Signal_Bot.gbr",
       "layer_name": "Bottom Copper",
       "layer_type": "copper",
-      "color": "#3232c8",
-      "preview": "assets/gerbers/MANOPOLATORE_2040_ZERO_Copper_Signal_Bot_render.svg"
+      "color": "#4444ff",
+      "preview": "assets/gerbers/MANOPOLATORE_2040_ZERO_Copper_Signal_Bot.svg"
     },
     {
       "file": "MANOPOLATORE_2040_ZERO_Copper_Signal_Top.gbr",
       "path": "/Users/federicopaglioni/Documents/MANOPOLATORE/Project Outputs for MANOPOLATORE/FAB/GerberX2/MANOPOLATORE_2040_ZERO_Copper_Signal_Top.gbr",
       "layer_name": "Top Copper",
       "layer_type": "copper",
-      "color": "#c83232",
-      "preview": "assets/gerbers/MANOPOLATORE_2040_ZERO_Copper_Signal_Top_render.svg"
+      "color": "#ff4444",
+      "preview": "assets/gerbers/MANOPOLATORE_2040_ZERO_Copper_Signal_Top.svg"
     },
     {
       "file": "MANOPOLATORE_2040_ZERO_Drawing_1.gbr",
       "path": "/Users/federicopaglioni/Documents/MANOPOLATORE/Project Outputs for MANOPOLATORE/FAB/GerberX2/MANOPOLATORE_2040_ZERO_Drawing_1.gbr",
       "layer_name": "Drawing",
       "layer_type": "mech",
-      "color": "#cc00cc",
-      "preview": "assets/gerbers/MANOPOLATORE_2040_ZERO_Drawing_1_render.svg"
+      "color": "#ff66ff",
+      "preview": "assets/gerbers/MANOPOLATORE_2040_ZERO_Drawing_1.svg"
     },
     {
       "file": "MANOPOLATORE_2040_ZERO_Drillmap_1.gbr",
@@ -577,7 +578,7 @@
       "layer_name": "Drill Map",
       "layer_type": "drill",
       "color": "#aaaaaa",
-      "preview": "assets/gerbers/MANOPOLATORE_2040_ZERO_Drillmap_1_render.svg"
+      "preview": "assets/gerbers/MANOPOLATORE_2040_ZERO_Drillmap_1.svg"
     },
     {
       "file": "MANOPOLATORE_2040_ZERO_Legend_Bot.gbr",
@@ -585,7 +586,7 @@
       "layer_name": "Bottom Silkscreen",
       "layer_type": "silk",
       "color": "#cccc00",
-      "preview": "assets/gerbers/MANOPOLATORE_2040_ZERO_Legend_Bot_render.svg"
+      "preview": "assets/gerbers/MANOPOLATORE_2040_ZERO_Legend_Bot.svg"
     },
     {
       "file": "MANOPOLATORE_2040_ZERO_Legend_Top.gbr",
@@ -593,31 +594,31 @@
       "layer_name": "Top Silkscreen",
       "layer_type": "silk",
       "color": "#ffff00",
-      "preview": "assets/gerbers/MANOPOLATORE_2040_ZERO_Legend_Top_render.svg"
+      "preview": "assets/gerbers/MANOPOLATORE_2040_ZERO_Legend_Top.svg"
     },
     {
       "file": "MANOPOLATORE_2040_ZERO_NPTH_Drill.gbr",
       "path": "/Users/federicopaglioni/Documents/MANOPOLATORE/Project Outputs for MANOPOLATORE/FAB/GerberX2/MANOPOLATORE_2040_ZERO_NPTH_Drill.gbr",
-      "layer_name": "PTH Drill",
+      "layer_name": "NPTH Drill",
       "layer_type": "drill",
-      "color": "#ffffff",
-      "preview": "assets/gerbers/MANOPOLATORE_2040_ZERO_NPTH_Drill_render.svg"
+      "color": "#cccccc",
+      "preview": "assets/gerbers/MANOPOLATORE_2040_ZERO_NPTH_Drill.svg"
     },
     {
       "file": "MANOPOLATORE_2040_ZERO_Paste_Bot.gbr",
       "path": "/Users/federicopaglioni/Documents/MANOPOLATORE/Project Outputs for MANOPOLATORE/FAB/GerberX2/MANOPOLATORE_2040_ZERO_Paste_Bot.gbr",
       "layer_name": "Bottom Paste",
       "layer_type": "paste",
-      "color": "#606060",
-      "preview": "assets/gerbers/MANOPOLATORE_2040_ZERO_Paste_Bot_render.svg"
+      "color": "#777777",
+      "preview": "assets/gerbers/MANOPOLATORE_2040_ZERO_Paste_Bot.svg"
     },
     {
       "file": "MANOPOLATORE_2040_ZERO_Paste_Top.gbr",
       "path": "/Users/federicopaglioni/Documents/MANOPOLATORE/Project Outputs for MANOPOLATORE/FAB/GerberX2/MANOPOLATORE_2040_ZERO_Paste_Top.gbr",
       "layer_name": "Top Paste",
       "layer_type": "paste",
-      "color": "#808080",
-      "preview": "assets/gerbers/MANOPOLATORE_2040_ZERO_Paste_Top_render.svg"
+      "color": "#999999",
+      "preview": "assets/gerbers/MANOPOLATORE_2040_ZERO_Paste_Top.svg"
     },
     {
       "file": "MANOPOLATORE_2040_ZERO_Profile.gbr",
@@ -625,7 +626,7 @@
       "layer_name": "Board Outline",
       "layer_type": "outline",
       "color": "#ffcc00",
-      "preview": "assets/gerbers/MANOPOLATORE_2040_ZERO_Profile_render.svg"
+      "preview": "assets/gerbers/MANOPOLATORE_2040_ZERO_Profile.svg"
     },
     {
       "file": "MANOPOLATORE_2040_ZERO_PTH_Drill.gbr",
@@ -633,23 +634,23 @@
       "layer_name": "PTH Drill",
       "layer_type": "drill",
       "color": "#ffffff",
-      "preview": "assets/gerbers/MANOPOLATORE_2040_ZERO_PTH_Drill_render.svg"
+      "preview": "assets/gerbers/MANOPOLATORE_2040_ZERO_PTH_Drill.svg"
     },
     {
       "file": "MANOPOLATORE_2040_ZERO_Soldermask_Bot.gbr",
       "path": "/Users/federicopaglioni/Documents/MANOPOLATORE/Project Outputs for MANOPOLATORE/FAB/GerberX2/MANOPOLATORE_2040_ZERO_Soldermask_Bot.gbr",
       "layer_name": "Bottom Soldermask",
       "layer_type": "mask",
-      "color": "#000044",
-      "preview": "assets/gerbers/MANOPOLATORE_2040_ZERO_Soldermask_Bot_render.svg"
+      "color": "#6666cc",
+      "preview": "assets/gerbers/MANOPOLATORE_2040_ZERO_Soldermask_Bot.svg"
     },
     {
       "file": "MANOPOLATORE_2040_ZERO_Soldermask_Top.gbr",
       "path": "/Users/federicopaglioni/Documents/MANOPOLATORE/Project Outputs for MANOPOLATORE/FAB/GerberX2/MANOPOLATORE_2040_ZERO_Soldermask_Top.gbr",
       "layer_name": "Top Soldermask",
       "layer_type": "mask",
-      "color": "#004400",
-      "preview": "assets/gerbers/MANOPOLATORE_2040_ZERO_Soldermask_Top_render.svg"
+      "color": "#00cc66",
+      "preview": "assets/gerbers/MANOPOLATORE_2040_ZERO_Soldermask_Top.svg"
     }
   ],
   "ibom": "assets/ibom/v0.0.2.html",
@@ -976,7 +977,6 @@
             const resp = await fetch(encodeURI(pg.svg));
             const txt = await resp.text();
             wrapper.innerHTML = txt;
-            // Ensure SVG has explicit dimensions for absolute positioning
             const svg = wrapper.querySelector('svg');
             if (svg) {
               const vb = svg.viewBox.baseVal;
@@ -1206,37 +1206,65 @@
       const vp = document.getElementById('gerberViewport');
       if (!vp || !D.gerber_layers.length) return;
 
-      // Create wrapper for all layers
+      vp.innerHTML = '';
+      gerberState = { scale:1, tx:0, ty:0, raf:false, wrapper:null,
+        layers: new Array(D.gerber_layers.length).fill(null),
+        dragging:false, lx:0, ly:0, imgW:0, imgH:0 };
+
       const wrapper = document.createElement('div');
       wrapper.className = 'gv-wrapper';
       vp.appendChild(wrapper);
       gerberState.wrapper = wrapper;
 
-      // Load all layer SVGs as images
-      let loadCount = 0;
-      const totalWithPreview = D.gerber_layers.filter(l => l.preview).length;
+      const withPreview = D.gerber_layers.filter(l => l.preview);
+      if (!withPreview.length) return;
 
-      D.gerber_layers.forEach((l,i) => {
-        if (!l.preview) return;
-        const div = document.createElement('div');
-        div.className = 'gv-layer';
-        div.dataset.layerIdx = i;
-        const img = document.createElement('img');
-        img.src = encodeURI(l.preview);
-        img.alt = l.layer_name;
-        img.onload = () => {
-          loadCount++;
-          if (loadCount === 1) {
-            // Use first image dimensions as reference
-            gerberState.imgW = img.naturalWidth;
-            gerberState.imgH = img.naturalHeight;
-          }
-          if (loadCount >= totalWithPreview) gerberFit();
-        };
-        div.appendChild(img);
-        wrapper.appendChild(div);
-        gerberState.layers.push(div);
-      });
+      // Fetch all SVGs in parallel (cache:'no-store' avoids cached redirects)
+      // SVGs are pre-normalized to a common viewBox by the build step
+      Promise.all(withPreview.map(l =>
+        fetch(l.preview, {cache:'no-store'}).then(r => r.ok ? r.text() : null).catch(() => null)
+      ))
+        .then(texts => {
+          const entries = [];
+
+          texts.forEach((text, i) => {
+            if (!text) return;
+            const l = withPreview[i];
+            const idx = D.gerber_layers.indexOf(l);
+
+            const tmp = document.createElement('div');
+            tmp.innerHTML = text;
+            const svg = tmp.querySelector('svg');
+            if (!svg) return;
+
+            entries.push({ svg, idx, color: l.color });
+          });
+
+          if (!entries.length) return;
+
+          // Read viewBox from first SVG (all are normalized to the same viewBox)
+          const firstSvg = entries[0].svg;
+          const vb = firstSvg.viewBox.baseVal;
+          const vbW = vb.width || 1000, vbH = vb.height || 1000;
+          const pxH = 2000, pxW = Math.round(pxH * (vbW / vbH));
+          gerberState.imgW = pxW;
+          gerberState.imgH = pxH;
+
+          entries.sort((a, b) => a.idx - b.idx);
+          entries.forEach(({ svg, idx, color }) => {
+            svg.setAttribute('width', pxW);
+            svg.setAttribute('height', pxH);
+            svg.removeAttribute('style');
+
+            const div = document.createElement('div');
+            div.className = 'gv-layer';
+            div.style.color = color;
+            div.appendChild(svg);
+            wrapper.appendChild(div);
+            gerberState.layers[idx] = div;
+          });
+          gerberFit();
+        });
 
       // Pan/zoom events
       vp.addEventListener('wheel', e => {
@@ -1303,7 +1331,7 @@
     }
     function toggleAllGerberLayers(visible) {
       document.querySelectorAll('.gerber-layers-panel input[type="checkbox"]').forEach(cb => { cb.checked = visible; });
-      gerberState.layers.forEach(l => { l.style.display = visible ? '' : 'none'; });
+      gerberState.layers.forEach(l => { if (l) l.style.display = visible ? '' : 'none'; });
     }
 
     /* ═══ IBOM ═══ */

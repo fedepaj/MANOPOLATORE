@@ -1,0 +1,106 @@
+[
+  {
+    "file": "MANOPOLATORE_2040_ZERO_Copper_Signal_Bot.gbr",
+    "path": "/Users/federicopaglioni/Documents/MANOPOLATORE/Project Outputs for MANOPOLATORE/FAB/GerberX2/MANOPOLATORE_2040_ZERO_Copper_Signal_Bot.gbr",
+    "layer_name": "Bottom Copper",
+    "layer_type": "copper",
+    "color": "#4444ff",
+    "preview": "MANOPOLATORE_2040_ZERO_Copper_Signal_Bot.svg"
+  },
+  {
+    "file": "MANOPOLATORE_2040_ZERO_Copper_Signal_Top.gbr",
+    "path": "/Users/federicopaglioni/Documents/MANOPOLATORE/Project Outputs for MANOPOLATORE/FAB/GerberX2/MANOPOLATORE_2040_ZERO_Copper_Signal_Top.gbr",
+    "layer_name": "Top Copper",
+    "layer_type": "copper",
+    "color": "#ff4444",
+    "preview": "MANOPOLATORE_2040_ZERO_Copper_Signal_Top.svg"
+  },
+  {
+    "file": "MANOPOLATORE_2040_ZERO_Drawing_1.gbr",
+    "path": "/Users/federicopaglioni/Documents/MANOPOLATORE/Project Outputs for MANOPOLATORE/FAB/GerberX2/MANOPOLATORE_2040_ZERO_Drawing_1.gbr",
+    "layer_name": "Drawing",
+    "layer_type": "mech",
+    "color": "#ff66ff",
+    "preview": "MANOPOLATORE_2040_ZERO_Drawing_1.svg"
+  },
+  {
+    "file": "MANOPOLATORE_2040_ZERO_Drillmap_1.gbr",
+    "path": "/Users/federicopaglioni/Documents/MANOPOLATORE/Project Outputs for MANOPOLATORE/FAB/GerberX2/MANOPOLATORE_2040_ZERO_Drillmap_1.gbr",
+    "layer_name": "Drill Map",
+    "layer_type": "drill",
+    "color": "#aaaaaa",
+    "preview": "MANOPOLATORE_2040_ZERO_Drillmap_1.svg"
+  },
+  {
+    "file": "MANOPOLATORE_2040_ZERO_Legend_Bot.gbr",
+    "path": "/Users/federicopaglioni/Documents/MANOPOLATORE/Project Outputs for MANOPOLATORE/FAB/GerberX2/MANOPOLATORE_2040_ZERO_Legend_Bot.gbr",
+    "layer_name": "Bottom Silkscreen",
+    "layer_type": "silk",
+    "color": "#cccc00",
+    "preview": "MANOPOLATORE_2040_ZERO_Legend_Bot.svg"
+  },
+  {
+    "file": "MANOPOLATORE_2040_ZERO_Legend_Top.gbr",
+    "path": "/Users/federicopaglioni/Documents/MANOPOLATORE/Project Outputs for MANOPOLATORE/FAB/GerberX2/MANOPOLATORE_2040_ZERO_Legend_Top.gbr",
+    "layer_name": "Top Silkscreen",
+    "layer_type": "silk",
+    "color": "#ffff00",
+    "preview": "MANOPOLATORE_2040_ZERO_Legend_Top.svg"
+  },
+  {
+    "file": "MANOPOLATORE_2040_ZERO_NPTH_Drill.gbr",
+    "path": "/Users/federicopaglioni/Documents/MANOPOLATORE/Project Outputs for MANOPOLATORE/FAB/GerberX2/MANOPOLATORE_2040_ZERO_NPTH_Drill.gbr",
+    "layer_name": "NPTH Drill",
+    "layer_type": "drill",
+    "color": "#cccccc",
+    "preview": "MANOPOLATORE_2040_ZERO_NPTH_Drill.svg"
+  },
+  {
+    "file": "MANOPOLATORE_2040_ZERO_Paste_Bot.gbr",
+    "path": "/Users/federicopaglioni/Documents/MANOPOLATORE/Project Outputs for MANOPOLATORE/FAB/GerberX2/MANOPOLATORE_2040_ZERO_Paste_Bot.gbr",
+    "layer_name": "Bottom Paste",
+    "layer_type": "paste",
+    "color": "#777777",
+    "preview": "MANOPOLATORE_2040_ZERO_Paste_Bot.svg"
+  },
+  {
+    "file": "MANOPOLATORE_2040_ZERO_Paste_Top.gbr",
+    "path": "/Users/federicopaglioni/Documents/MANOPOLATORE/Project Outputs for MANOPOLATORE/FAB/GerberX2/MANOPOLATORE_2040_ZERO_Paste_Top.gbr",
+    "layer_name": "Top Paste",
+    "layer_type": "paste",
+    "color": "#999999",
+    "preview": "MANOPOLATORE_2040_ZERO_Paste_Top.svg"
+  },
+  {
+    "file": "MANOPOLATORE_2040_ZERO_Profile.gbr",
+    "path": "/Users/federicopaglioni/Documents/MANOPOLATORE/Project Outputs for MANOPOLATORE/FAB/GerberX2/MANOPOLATORE_2040_ZERO_Profile.gbr",
+    "layer_name": "Board Outline",
+    "layer_type": "outline",
+    "color": "#ffcc00",
+    "preview": "MANOPOLATORE_2040_ZERO_Profile.svg"
+  },
+  {
+    "file": "MANOPOLATORE_2040_ZERO_PTH_Drill.gbr",
+    "path": "/Users/federicopaglioni/Documents/MANOPOLATORE/Project Outputs for MANOPOLATORE/FAB/GerberX2/MANOPOLATORE_2040_ZERO_PTH_Drill.gbr",
+    "layer_name": "PTH Drill",
+    "layer_type": "drill",
+    "color": "#ffffff",
+    "preview": "MANOPOLATORE_2040_ZERO_PTH_Drill.svg"
+  },
+  {
+    "file": "MANOPOLATORE_2040_ZERO_Soldermask_Bot.gbr",
+    "path": "/Users/federicopaglioni/Documents/MANOPOLATORE/Project Outputs for MANOPOLATORE/FAB/GerberX2/MANOPOLATORE_2040_ZERO_Soldermask_Bot.gbr",
+    "layer_name": "Bottom Soldermask",
+    "layer_type": "mask",
+    "color": "#6666cc",
+    "preview": "MANOPOLATORE_2040_ZERO_Soldermask_Bot.svg"
+  },
+  {
+    "file": "MANOPOLATORE_2040_ZERO_Soldermask_Top.gbr",
+    "path": "/Users/federicopaglioni/Documents/MANOPOLATORE/Project Outputs for MANOPOLATORE/FAB/GerberX2/MANOPOLATORE_2040_ZERO_Soldermask_Top.gbr",
+    "layer_name": "Top Soldermask",
+    "layer_type": "mask",
+    "color": "#00cc66",
+    "preview": "MANOPOLATORE_2040_ZERO_Soldermask_Top.svg"
+  }
+]
